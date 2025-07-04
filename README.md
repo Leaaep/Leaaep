@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XLordPlatypus&theme=algolia&layout=pie" alt="XLordPlatypus's GitHub Lang" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XLordPlatypus&layout=donut-vertical&theme=algolia" alt="XLordPlatypus's langs" />
 </p>
 
 <p align="center">
