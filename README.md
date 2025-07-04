@@ -1,7 +1,7 @@
 ## Hi there 👋 i am XLordPlatypus
 
 <p align="center">
-  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=XLordPlatypus)](https://github.com/ryo-ma/github-profile-trophy)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=XLordPlatypus" alt="XLordPlatypus's Trophies" />
 </p>
 
 <p align="center">
