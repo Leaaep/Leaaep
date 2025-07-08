@@ -1,4 +1,4 @@
-## Hi there 👋 i am XLordPlatypus
+## Hi there 👋 i am Leaaep
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=XLordPlatypus&theme=algolia" alt="XLordPlatypus's Trophies" />
