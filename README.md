@@ -1,8 +1,6 @@
 ## Hi there 👋 i am Leaaep
 
-<p align="center">
-  ![Leaaep's Trophies](https://github-profile-trophy.vercel.app/?username=Leaaep&theme=algolia)
-</p>
+![Leaaep's Trophies](https://github-profile-trophy.vercel.app/?username=Leaaep&theme=algolia)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leaaep&layout=donut-vertical&theme=algolia" alt="Leaaep's langs" />
