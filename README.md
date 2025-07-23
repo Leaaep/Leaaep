@@ -1,7 +1,7 @@
 ## Hi there 👋 i am Leaaep
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leaaep&theme=algolia" alt="Leaaep's Trophies" />
+  ![Leaaep's Trophies](https://github-profile-trophy.vercel.app/?username=Leaaep&theme=algolia)
 </p>
 
 <p align="center">
