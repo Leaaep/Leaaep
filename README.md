@@ -1,4 +1,4 @@
-## Hi there 👋 i am Leaaep
+## Hi I'm Leaaep
 
 find my code: 
 * https://gitlab.com/Leaaep/
